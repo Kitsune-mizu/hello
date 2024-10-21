@@ -22,24 +22,5 @@ Perintah-perintah Berguna Lainnya:
  * Melihat history: git log untuk melihat riwayat commit.
  * Membatalkan perubahan: git checkout -- <nama_file> untuk membatalkan perubahan pada file yang belum di-commit.
 
-Contoh Penggunaan:
-= Membuat repository baru
-git init
-= Menambahkan file baru
-touch README.md
-git add README.md
-git commit -m "Menambahkan file README"
-= Membuat branch baru
-git branch feature
-git checkout feature
-= Membuat perubahan pada file
-= ...
-= Commit perubahan
-git commit -m "Menambahkan fitur baru"
-= Kembali ke branch utama
-git checkout main
-= Menggabungkan perubahan
-git merge feature
-= Push perubahan ke remote
-git push -u origin main 
+
 
