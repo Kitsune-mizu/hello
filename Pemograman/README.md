@@ -1,4 +1,3 @@
-# pratikum
 # menggunakan Git:
 1. Instalasi Git:
  * Unduh: Kunjungi situs resmi Git (git-scm.com) dan unduh installer sesuai sistem operasi Anda.
@@ -24,30 +23,23 @@ Perintah-perintah Berguna Lainnya:
  * Membatalkan perubahan: git checkout -- <nama_file> untuk membatalkan perubahan pada file yang belum di-commit.
 
 Contoh Penggunaan:
-# Membuat repository baru
+= Membuat repository baru
 git init
-
-# Menambahkan file baru
+= Menambahkan file baru
 touch README.md
 git add README.md
 git commit -m "Menambahkan file README"
-
-# Membuat branch baru
+= Membuat branch baru
 git branch feature
 git checkout feature
-
-# Membuat perubahan pada file
-# ...
-
-# Commit perubahan
+= Membuat perubahan pada file
+= ...
+= Commit perubahan
 git commit -m "Menambahkan fitur baru"
-
-# Kembali ke branch utama
+= Kembali ke branch utama
 git checkout main
-
-# Menggabungkan perubahan
+= Menggabungkan perubahan
 git merge feature
-
-# Push perubahan ke remote
-git push -u origin main
+= Push perubahan ke remote
+git push -u origin main 
 
