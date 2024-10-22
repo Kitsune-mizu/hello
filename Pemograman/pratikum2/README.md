@@ -2,6 +2,7 @@
 # Menentukan bilangan terbesar dari 3 input bilangan 
 
 //masukan input
+'''python
 num1 = int(input("masukan bilangan pertama:"))
 num2 = int(input("masukan bilangan kedua:"))
 num3 = int(input("masukan bilangan ketiga:"))
@@ -13,6 +14,7 @@ maks = num2
 else:
 maks = num3
 print("Bilangan terbesar adalah", maks)
+()
 
 // Penjelasan
 1. Baris 3,4,5 tempat untuk menyimpan bilangan yang akan di masukan dalam bentuk variabel num1, num2, num3 yang merupakan 3 bilangan yang akan di inputkan untuk mencari bilangan terbesar.
