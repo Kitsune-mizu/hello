@@ -22,7 +22,6 @@ maks = 10.
 Menentukan bilangan terbesar dari N, untuk menentukan jumlah N, berikan input angka 0
 
 kode program (labpy2)
-
    
 Penjelasan:
 1. Pada baris 2, variable maks sama dengan nol, kosong untuk menandai awal program.
