@@ -1,10 +1,10 @@
 # pratikum2 Python3 (vs code)
-# Menentukan bilangan terbesar dari 3 input bilangan 
+
+Menentukan bilangan terbesar dari 3 input bilangan 
 
 kode program (labpy1)
 
-
-// Penjelasan
+Penjelasan:
 1. Baris 2,3,4 tempat untuk menyimpan bilangan yang akan di masukan dalam bentuk 
 variabel num1, num2, num3 yang merupakan 3 bilangan yang akan di inputkan untuk 
 mencari bilangan terbesar.
@@ -19,12 +19,12 @@ di variabel maks untuk di tampilkan hasil di terminal dan hasil bilangan terbesa
 maks = 10.
 
 
-# Menentukan bilangan terbesar dari N, untuk menentukan jumlah N, berikan input angka 0
+Menentukan bilangan terbesar dari N, untuk menentukan jumlah N, berikan input angka 0
 
 kode program (labpy2)
 
    
-// Penjelasan
+Penjelasan:
 1. Pada baris 2, variable maks sama dengan nol, kosong untuk menandai awal program.
 2. Pada baris 3-6, perintah perulangan While True yang membuat perulangan tak terbatas 
 hingga perintah di berhentikan dengan Break, dengan memasukan bilangan 0 pada 
