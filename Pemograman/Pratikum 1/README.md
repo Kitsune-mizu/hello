@@ -1,6 +1,7 @@
 # Flowchart
 flowchart (labpy1)
 
+Menentukan bilangan terbesar dari 3 input bilangan
 Penjelasan :
 1. (Start) mulai.
 2. Masukan input untuk 3 variabel num1, num2, num3.
@@ -14,6 +15,7 @@ dan terus berulang sampai dapat hasil bilangan tertinggi.
 
 flowchart (labpy2)
 
+Menentukan bilangan terbesar dari N, untuk menentukan jumlah N, berikan input angka 0
 Penjelasan :
 1. (Start) mulai.
 2. Input N.
