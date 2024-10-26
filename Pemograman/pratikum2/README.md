@@ -2,18 +2,7 @@
 # Menentukan bilangan terbesar dari 3 input bilangan 
 
 kode program (labpy1)
-'''python
-num1 = int(input("masukan bilangan pertama:"))
-num2 = int(input("masukan bilangan kedua:"))
-num3 = int(input("masukan bilangan ketiga:"))
-// mencari bilangan terbesar
-if num1 > num2 and num1 > num3:
-maks = num1
-elif num2 > num3:
-maks = num2
-else:
-maks = num3
-print("Bilangan terbesar adalah", maks)
+
 
 // Penjelasan
 1. Baris 3,4,5 tempat untuk menyimpan bilangan yang akan di masukan dalam bentuk variabel num1, num2, num3 yang merupakan 3 bilangan yang akan di inputkan untuk mencari bilangan terbesar.
@@ -24,16 +13,7 @@ print("Bilangan terbesar adalah", maks)
 # Menentukan bilangan terbesar dari N, untuk menentukan jumlah N, berikan input angka 0
 
 kode program (labpy2)
-'''python
-maks = 0 
-while True:
-  N = int(input("Masukkan number (0 untuk berhenti): "))
-  if N == 0:
-    break
-  if maks is None or N > maks:
-     maks = N
-if maks is not None:
-   print("Bilangan terbesar adalah:", maks)
+
    
 // Penjelasan
 1. Pada baris 32,  variabel maks sama dengan nol, kosong untuk menandai awal program. 
