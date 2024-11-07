@@ -4,6 +4,8 @@ Menentukan bilangan terbesar dari 3 input bilangan
 
 kode program (labpy1)
 
+https://github.com/Kitsune-mizu/hello/blob/main/Bahasa%20Pemograman/pratikum2/labpy1(pra2).png
+
 Penjelasan:
 1. Baris 2,3,4 tempat untuk menyimpan bilangan yang akan di masukan dalam bentuk 
 variabel num1, num2, num3 yang merupakan 3 bilangan yang akan di inputkan untuk 
@@ -22,7 +24,9 @@ maks = 10.
 Menentukan bilangan terbesar dari N, untuk menentukan jumlah N, berikan input angka 0
 
 kode program (labpy2)
-   
+
+https://github.com/Kitsune-mizu/hello/blob/main/Bahasa%20Pemograman/pratikum2/labpy2(pra2).png
+
 Penjelasan:
 1. Pada baris 2, variable maks sama dengan nol, kosong untuk menandai awal program.
 2. Pada baris 3-6, perintah perulangan While True yang membuat perulangan tak terbatas 

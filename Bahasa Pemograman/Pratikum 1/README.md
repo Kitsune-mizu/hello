@@ -1,6 +1,8 @@
 # Flowchart
 flowchart (labpy1)
 
+https://github.com/Kitsune-mizu/hello/blob/main/Bahasa%20Pemograman/Pratikum%201/labpy1(pra1).png
+
 Menentukan bilangan terbesar dari 3 input bilangan
 
 Penjelasan :
@@ -15,6 +17,9 @@ dan terus berulang sampai dapat hasil bilangan tertinggi.
 5. (End) selesai,
 
 flowchart (labpy2)
+
+https://github.com/Kitsune-mizu/hello/blob/main/Bahasa%20Pemograman/Pratikum%201/labpy2(pra1).png
+https://github.com/Kitsune-mizu/hello/blob/main/Bahasa%20Pemograman/Pratikum%201/labpy2.2(pra1).png
 
 Menentukan bilangan terbesar dari N, untuk menentukan jumlah N, berikan input angka 0
 
